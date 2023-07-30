@@ -1,414 +1,232 @@
-,station name,name,address,category,rating
-0,01. Curtatone,Pizzeria Alle Scalette,Viale Curtatone 18,Pizzeria,
-1,01. Curtatone,Piazza Giacomo Matteotti,Piazza Giacomo Matteotti,Plaza,
-2,01. Curtatone,Basilica di San Domenico,Piazza San Domenico,Church,
-3,01. Curtatone,Caffè La Piazzetta,Via Montanini 52,Bar,
-4,01. Curtatone,Consorzio Agrario di Siena,Via Pianigiani Giuseppe 9,Grocery Store,
-5,01. Curtatone,Il Masgalano,Via Camporegio 1,Pizzeria,
-6,01. Curtatone,Il Pomodorino,Via Camporegio 13,Pizzeria,
-7,01. Curtatone,Zest Ristorante & Winebar,Costa di Sant'Antonio 13,Wine Bar,
-8,01. Curtatone,Antico Bar La Lizza,Piazza Antonio Gramsci 10,Bar,
-9,01. Curtatone,Ristorante San Domenico,Via Camporegio 17,Restaurant,
-10,02. S. Agostino,La Taverna di San Giuseppe,Via Giovanni Duprè 132,Tuscan Restaurant,
-11,02. S. Agostino,Osteria Castelvecchio,Via Castelvecchio 65,Pizzeria,
-12,02. S. Agostino,Osteria da Cice,Via San Pietro 32,Italian Restaurant,
-13,02. S. Agostino,La Vecchia Latteria,Via San Pietro 10,Ice Cream Parlor,
-14,02. S. Agostino,Mensa Sant'Agata,Via Sant'Agata 1,Café,
-15,02. S. Agostino,Hotel Duomo SRL,Via Stalloreggi 38,Hotel,
-16,02. S. Agostino,Pinacotaca Nazionale di Siena,Via di San Pietro 29,Museum,
-17,02. S. Agostino,La Taverna Del Capitano,Via del Capitano 6,Pizzeria,
-18,02. S. Agostino,Boccon del Prete,Via di San Pietro 17,Trattoria,
-19,02. S. Agostino,Permalico Vini e Merende SNC di Mattii e Mottola,Costa Larga 4,Bar,
-20,03. S. Girolamo,Gelateria Nice,Via di Pantaneto 152,Ice Cream Parlor,
-21,03. S. Girolamo,Osteria La Sosta di Violante,Via di Pantaneto 115,Trattoria,
-22,03. S. Girolamo,Da Gano,Via Pantaneto 146,Trattoria,
-23,03. S. Girolamo,Supermercati Conad,Via Pantaneto,Grocery Store,
-24,03. S. Girolamo,Bella Vista Social Pub,Via di pantaneto,Arts and Entertainment,
-25,03. S. Girolamo,La Prosciutteria,Via di Pantaneto 89,Bar,
-26,03. S. Girolamo,Meet Life Café,Via Pantaneto 90,Bar,
-27,03. S. Girolamo,Porta Romana,Via Roma,Other Great Outdoors,
-28,03. S. Girolamo,Grotta Gallo Nero,Via Porrione 65,Italian Restaurant,
-29,03. S. Girolamo,Gallo Nero,Via del Porrione 65,Italian Restaurant,
-30,04. Fortezza,Fortezza Medicea,Piazza Caduti delle Forze Armate,Landmarks and Outdoors,
-31,04. Fortezza,Osteria del Buon Governo,Viale Vittorio Veneto 29,Diner,
-32,04. Fortezza,Basilica di San Domenico,Piazza San Domenico,Church,
-33,04. Fortezza,Fondazione Siena Jazz - Accademia Nazionale del Jazz,Piazza Caduti delle Forze dell'Ordine,Music School,
-34,04. Fortezza,Il Masgalano,Via Camporegio 1,Pizzeria,
-35,04. Fortezza,Blandis Cafè & Wine Bar,Via Esterna di Fontebranda 50-52,Bar,
-36,04. Fortezza,Fontebranda,Via di Fontebranda,Monument,
-37,04. Fortezza,Osteria Enoteca Sotto Le Fonti,Via Esterna di Fontebranda 114,Trattoria,
-38,04. Fortezza,Il Pomodorino,Via Camporegio 13,Pizzeria,
-39,04. Fortezza,Ristorante San Domenico,Via Camporegio 17,Restaurant,
-40,05. Antiporto,Antiporto di Camollia,Via Vittorio Emanuele II,Historic and Protected Site,
-41,05. Antiporto,Ravioli Wang,Viale Vittorio Emanuele II 38,Chinese Restaurant,
-42,05. Antiporto,Gelateria Il Bacio,Via Vittorio Emanuele II 55,Ice Cream Parlor,
-43,05. Antiporto,Turkish Pace Kebap,Viale Cavour,Turkish Restaurant,
-44,05. Antiporto,Snack Bar 1961,Viale Vittorio Emanuele II 64,Café,
-45,05. Antiporto,Vodafone Store,Corso Cavour 2,Mobile Phone Store,
-46,05. Antiporto,Bar Impero Siena,Viale Vittorio Emanuele II 10,Cocktail Bar,
-47,05. Antiporto,Sushiko,Piazzale Carlo Rosselli 25,Sushi Restaurant,
-48,05. Antiporto,Pub Pizzeria La Risalita,Via Vittorio Emanuele 57,Pizzeria,
-49,05. Antiporto,Solo Affitti - Siena,Viale Vittorio Emanuele II,Real Estate Agency,
-50,06. Due Ponti,Burger King,Viale Toselli,Burger Joint,
-51,06. Due Ponti,Simply viale Toselli,Piazza Maestri del Lavori,Department Store,
-52,06. Due Ponti,Prosalus Sanitaria,Viale Pietro Toselli 21,Medical Supply Store,
-53,06. Due Ponti,Donna Ripalta,Viale Pietro Toselli 41,BBQ Joint,
-54,06. Due Ponti,Acquedotto del Fiora,Viale Pietro Toselli 9,Food and Beverage Service,
-55,06. Due Ponti,Penny Market,Via Toselli 11,Dining and Drinking,
-56,06. Due Ponti,Rakki Sushi Siena,Piazza Maestri del Lavoro 31,Sushi Restaurant,
-57,06. Due Ponti,Vodafone Store,Via Toselli 116,Mobile Phone Store,
-58,06. Due Ponti,Ricoh Italia SRL,Viale Toselli Pietro 11,,
-59,06. Due Ponti,Terrecablate Reti e Servizi SRL,Viale Pietro Toselli 9,,
-60,07. Napoli,Fontebecci,Via Fiorentina 133,Pizzeria,
-61,07. Napoli,Bruzzese Tuttoparquet,Via Fiorentina 112,Carpet and Flooring Contractor,
-62,07. Napoli,Creme Gelateria Dolceria,Via Fiorentina 151,Cupcake Shop,
-63,07. Napoli,Pizzeria Poppi,Via Fiorentina 105,Pizzeria,
-64,07. Napoli,Al Fiumino,Via Giovanni Paolo II,Wine Bar,
-65,07. Napoli,McDonald's,Via Fiorentina 122,Burger Joint,
-66,07. Napoli,Centro Per L'impiego,Via Fiorentina 91,,
-67,07. Napoli,Pizzeria La Fenice,Via Fiorentina 88,Pizzeria,
-68,07. Napoli,Ristorante Il Mestolo,Via Fiorentina 81,Italian Restaurant,
-69,07. Napoli,Secar 2009,Via Fiorentina 116,Automotive Repair Shop,
-70,08. Ospedale,Associazione Coccinelle - Amici del neonato,Viale Bracci 16,,
-71,08. Ospedale,Ospedali Riuniti,Viale Mario Bracci 16,Hospital,
-72,08. Ospedale,Azienda U.S.L. 7 di Siena,Viale Bracci Mario 16,Health and Medicine,
-73,08. Ospedale,Azienda Ospedaliera Senese,Viale Bracci Mario 16,Hospital,
-74,08. Ospedale,Pizzeria Tavola Calda Bracci,Viale Bracci 4,,
-75,08. Ospedale,A.O. Universitaria Senese,Viale M. Bracci 16,,
-76,08. Ospedale,Mensa San Miniato Ristorante,Via de Nicola 9,Restaurant,
-77,08. Ospedale,Associazione Toscana Leucemie Onlus,Viale Bracci Mario 16,Community and Government,
-78,08. Ospedale,Patologia Orale,Viale Bracci,,
-79,08. Ospedale,Dr Maurizio Biagioli,Viale Bracci 16,Dermatologist,
-80,09. Acquacalda,Poste Italiane,Via Savina Petrilli 2,Post Office,
-81,09. Acquacalda,Pizzeria La Strana Coppia,Via Celso Cittadini 6,Pizzeria,
-82,09. Acquacalda,CUS Siena,Via Luciano Banchi 3,Gym and Studio,
-83,09. Acquacalda,Bar Giglio,Via Colombini 32,Bar,
-84,09. Acquacalda,Centro Servizi Familiari di Tavaglione M.& C. SNC,Via B. Tolomei 10,Metals Supplier,
-85,09. Acquacalda,Palacorsoni Siena,Via L. Banchi 5,Stadium,
-86,09. Acquacalda,Ufficio Anagrafe e Stato Civile,Via Bernardo Tolomei 7,Community and Government,
-87,09. Acquacalda,Parco Bernardino Ochino,Via Luciano Banchi,Sports and Recreation,
-88,09. Acquacalda,San Gonnario Beer Shop,Via Colombini 42,Beer Store,
-89,09. Acquacalda,Laboratorio Odontotecnico Senese di Boldrini Mario e C. - SNC,Via Savina Petrilli 17,Medical Center,
-90,10. Ravacciano,La Grotta di San Francesco,Via Baldassarre Peruzzi 20,Pizzeria,
-91,10. Ravacciano,Particolare di Siena,Via Baldassarre Peruzzi 26,Restaurant,
-92,10. Ravacciano,Osteria L'Osteria,Via dei Rossi 79,Italian Restaurant,
-93,10. Ravacciano,Tre Cristi,Vicolo di Provenzano 1,Italian Restaurant,
-94,10. Ravacciano,L'oro di Siena di Luppoli Marcellino & C. SNC,Via Giuseppe Garibaldi 61,Pizzeria,
-95,10. Ravacciano,Osteria Le Sorelline,Via dei Rossi 76,Restaurant,
-96,10. Ravacciano,Campetto da Basket di Ravacciano,Via del Vecchietta,Basketball Court,
-97,10. Ravacciano,Sushi Bar,Via Domenico Beccafumi 10,Trattoria,
-98,10. Ravacciano,Piazza Salimbeni,Piazza Salimbeni,Historic and Protected Site,
-99,10. Ravacciano,La Prosciutteria,Via di Pantaneto 89,Bar,
-100,11. S. Miniato,La Pizzeria di San Miniato,Piazza Palmiro Togliatti 2,Pizzeria,
-101,11. S. Miniato,Scaccini e Cucini di Scaccini S. e Cucini M SNC,Piazza Palmiro Togliatti 3,Bar,
-102,11. S. Miniato,Forno San Miniato,Piazza Togliatti 7,Wholesaler,
-103,11. S. Miniato,Cooperativa San Miniato,Piazza Palmiro Togliatti,Convenience Store,
-104,11. S. Miniato,Si Donna,Piazza Palmiro Togliatti 15,Business and Professional Services,
-105,11. S. Miniato,Cittinilandia,Via Achille Grandi 2,,
-106,11. S. Miniato,Farmacia Laguardia,Via Grandi 2,Drugstore,
-107,11. S. Miniato,Simus - Museo Anatomico Leonetto Comparini,Via Aldo Moro 2,Science Museum,
-108,11. S. Miniato,Circolo Acli San Miniato,Via Aldo Moro 4,Organization,
-109,11. S. Miniato,Mps Leasing & Factoring SPA,Via Aldo Moro 11,Loans Agency,
-110,12. Terminal Bus,Sushiko,Piazzale Carlo Rosselli 25,Sushi Restaurant,
-111,12. Terminal Bus,Punto Enel,Via Lauro de Bosis 26,Miscellaneous Store,
-112,12. Terminal Bus,Chianti Banca,Via Lauro de Bosis 20,Bank,
-113,12. Terminal Bus,GameStop,Piazzale Carlo Rosselli 22,,
-114,12. Terminal Bus,Farmacia Comunale,"Stazione Ferroviaria di Siena, Piazzale Carlo Rosselli",Drugstore,
-115,12. Terminal Bus,Ristorante Primo Binario,Piazza Carlo Rosselli 19,Pizzeria,
-116,12. Terminal Bus,Bar Ristorante Stazione,Piazza Rosselli Carlo 6,Bar,
-117,12. Terminal Bus,Cibiamo - La Bottega del Caffè,Piazza Carlo Rosselli 22,Coffee Shop,
-118,12. Terminal Bus,Centro Commerciale Porta Siena,Piazza Carlo Rosselli 25,Shopping Mall,
-119,12. Terminal Bus,Colours & Beauty,Piazzale carlo rosselli 25,Fashion Retail,
-120,14. Vico Alto,La Veranda,Piazza Calabria 20,Pizzeria,
-121,14. Vico Alto,Skilè Music Bar,Piazza Calabria 18,Arts and Entertainment,
-122,14. Vico Alto,Pasticceria Senese,piazza Calabria 25,Dessert Shop,
-123,14. Vico Alto,Al Fiumino,Via Giovanni Paolo II,Wine Bar,
-124,14. Vico Alto,Motorizzazione Civile,Via delle Regioni 70,Government Building,
-125,14. Vico Alto,Agenzia Del Territorio,Via Liguria 4,Community and Government,
-126,14. Vico Alto,Studio Commerciale Associato Turillazzi,Via Liguria 19,Business and Strategy Consulting Office,
-127,14. Vico Alto,Skilè Music Pub,Piazza Calabria 18-19,Food and Beverage Retail,
-128,14. Vico Alto,Il Salottino di Moira,Piazza Calabria 16,,
-129,14. Vico Alto,Emporio Dell'Usato di Fantacci Luca e C.,Via delle Regioni 23,Vintage and Thrift Store,
-130,15. Casa dell'Ambiente,L'oro di Siena di Luppoli Marcellino & C. SNC,Via Giuseppe Garibaldi 61,Pizzeria,
-131,15. Casa dell'Ambiente,Sushi Bar,Via Domenico Beccafumi 10,Trattoria,
-132,15. Casa dell'Ambiente,Poste Italiane,Viale Giuseppe Mazzini 6,Post Office,
-133,15. Casa dell'Ambiente,Bar Beccafumi SNC,Via Beccafumi 2,Bar,
-134,15. Casa dell'Ambiente,Osteria L'Osteria,Via dei Rossi 79,Italian Restaurant,
-135,15. Casa dell'Ambiente,Osteria di Kamollia,Via Camollia 114,Trattoria,
-136,15. Casa dell'Ambiente,Osteria Il Vinaio,Via Camollia 167,Deli,
-137,15. Casa dell'Ambiente,Enzo,Via Camollia 49,,
-138,15. Casa dell'Ambiente,Bepharma,Via Simone Martini 25,Drugstore,
-139,15. Casa dell'Ambiente,Trattoria Fonte Giusta,Via Camollia 102,Trattoria,
-140,16. Frajese,Mercato di Campagna Amica,Via Paolo Frajese 21,Farmers Market,
-141,16. Frajese,Enzo Sushi,Via Paolo Frajese 63,Restaurant,
-142,16. Frajese,Pista Engels Lambardi,Strada di Pescaia 121a,Hockey Field,
-143,16. Frajese,Cannoleria Ke Cassata,Strada di Pescaia 117,,
-144,16. Frajese,Il Tagliere di Lele,Strada Pescaia 129,Bar,
-145,16. Frajese,La Gelateria del 103,Strada di Pescaia 125,Pastry Shop,
-146,16. Frajese,Art Pizza e Bar al 103,Strada di Pescaia 103,Pizzeria,
-147,16. Frajese,Da Michele,Strada Massetana 64,Pizzeria,
-148,16. Frajese,Carrefour Express,Via di Pescaia 97,Grocery Store,
-149,16. Frajese,Podere Il Pero,Strada Montalbuccio 29,Bed and Breakfast,
-150,17. Mercato,Tea-Room Porta Giustizia,Via di Porta Giustizia 11,Bar,
-151,17. Mercato,Ristorante La Finestra,Piazza Mercato 14,Diner,
-152,17. Mercato,Gino Cacino,Piazza del Mercato 31,Food and Beverage Retail,
-153,17. Mercato,Piazza del Mercato,Piazza del Mercato,Plaza,
-154,17. Mercato,Grotta Gallo Nero,Via Porrione 65,Italian Restaurant,
-155,17. Mercato,Trattoria Papei,Piazza del Mercato 6,Trattoria,
-156,17. Mercato,Maudit Pub,Vicolo della Fortuna 21,Dive Bar,
-157,17. Mercato,Palazzo Pubblico,Piazza del Campo 1,Historic and Protected Site,
-158,17. Mercato,Gallo Nero,Via del Porrione 65,Italian Restaurant,
-159,17. Mercato,Torre Del Mangia,Piazza del Campo,Monument,
-160,18. Tufi,Bed & Breakfast Fonte dei Tufi,Strada dei Tufi 59,Bed and Breakfast,
-161,18. Tufi,Emporio Musicale Senese,Strada di Cerchiaia 11,Music Store,
-162,18. Tufi,La Stramba,Strada dei Tufi 66,Vacation Rental,
-163,18. Tufi,M&Mj SRL Semplificata,Strada dei Tufi 66,,
-164,18. Tufi,Costa Del Sole SRL,Strada dei Tufi 61,,
-165,18. Tufi,Euronics,Strada Massetana Romana 62,Electronics Store,
-166,18. Tufi,Edilsiena SRL,Via Piccolomini Enea Silvio 185,,
-167,18. Tufi,Villa Il Borghetto,Via Tufi no. 64,,
-168,18. Tufi,Il Palazzetto,Strada del Lucherino 31,Hotel,
-169,18. Tufi,Studio Etruria di p.a. Megna,Via Enea Silvio Piccolomini 199,,
-170,13. Calamandrei,Mensa San Miniato Ristorante,Via de Nicola 9,Restaurant,
-171,13. Calamandrei,Pepi Luca,Via de Nicola Enrico 3,Upholstery Service,
-172,13. Calamandrei,Ditta B.F.M. di Bartali Fabrizio,Via Buozzi 65,Metals Supplier,
-173,13. Calamandrei,Mini Rolando,Via Enrico Berlinguer 19,Painter,
-174,13. Calamandrei,Vivenda SPA,Via Aldo Moro 2,,
-175,13. Calamandrei,Tempio Israelitico,Via delle Scotte,Synagogue,
-176,13. Calamandrei,Bartalini Mario,Via de Gasperi Alcide 2,Home Improvement Service,
-177,13. Calamandrei,Cooperativa San Miniato,Piazza Palmiro Togliatti,Convenience Store,
-178,13. Calamandrei,Butini Arch. Riccardo,Via Lizzadri Oreste 27,Business and Professional Services,
-179,13. Calamandrei,Pasticceria Scacciapensieri,Via Nazareno Orlandi 8,Bar,
-180,19. Petriccio,Pasticceria Pierini,Via Quinto Settano 5,Bakery,
-181,19. Petriccio,Zelig Sociale Società Cooperativa Sociale A R. L.,Strada del Petriccio 49,,
-182,19. Petriccio,San Gonnario Beer Shop,Via Colombini 42,Beer Store,
-183,19. Petriccio,Centro Diagnostico Senese,Via Cittadini 7,Healthcare Clinic,
-184,19. Petriccio,Erboristeria La Pimpinella,Via Celso Cittadini 16,Alternative Medicine Clinic,
-185,19. Petriccio,Parrocchia Beato Bernardo Tolomei,Via Tolomei Bernardo 1,Church,
-186,19. Petriccio,Dr. Vigni Farmacia,Via Quinto Settano 1,Drugstore,
-187,19. Petriccio,Poste Italiane,Via Savina Petrilli 2,Post Office,
-188,19. Petriccio,Bar Giglio,Via Colombini 32,Bar,
-189,19. Petriccio,Bovicelli Roberto,Via Gallerani 23,Dentist,
-190,01. Curtatone,La Taverna di San Giuseppe,Via Giovanni Dupre 132,Tuscan,5.0
-191,01. Curtatone,Zest,Costa di Sant'antonio 13,Italian,4.5
-192,01. Curtatone,Café Nannini,Piazza Matteotti 32,Cafes,4.5
-193,01. Curtatone,La Chiacchiera,Via Costa di San Antonio 4,Italian,4.0
-194,01. Curtatone,Compagnia dei Vinattieri,"Via delle Terme, 79",Tuscan,4.0
-195,01. Curtatone,Pizzeria alle Scalette,Viale Curtatone 18,Pizza,4.5
-196,01. Curtatone,Il Bargello,Via di Citta' 53,Bars,4.5
-197,01. Curtatone,Salefino Vino e Cucina,Via degli Umiliati 1,Tuscan,4.5
-198,01. Curtatone,Antica Osteria da Divo,Via Franciosa 25,Italian,4.0
-199,01. Curtatone,La Prosciutteria,Via di Pantaneto,Wine Bars,4.5
-200,01. Curtatone,Duomo di Siena,Piazza del Duomo 8,Landmarks & Historical Buildings,5.0
-201,01. Curtatone,Prètto,Via dei Termini 4,Salumerie,4.0
-202,01. Curtatone,Fonte Giusta,Via Camollia 102,Tuscan,4.5
-203,01. Curtatone,Il Masgalano,Via Camporegio 1,Tuscan,5.0
-204,01. Curtatone,Ristorante San Domenico,Via di camporegio 15,Tuscan,4.5
-205,01. Curtatone,Vi Vace,Via Stalloreggi 64,Pizza,4.5
-206,01. Curtatone,Nannini,Via Banchi di Sopra 24,Desserts,4.0
-207,01. Curtatone,Taverna di Cecco,Via Cecco Angliolieri 19,Tuscan,4.5
-208,01. Curtatone,Antica Trattoria Papei,Via del Mercato 6,Tuscan,4.0
-209,01. Curtatone,Pizzeria di Nonno Mede,Via Camporegio 21,Pizza,4.0
-210,02. S. Agostino,La Taverna di San Giuseppe,Via Giovanni Dupre 132,Tuscan,5.0
-211,02. S. Agostino,Vi Vace,Via Stalloreggi 64,Pizza,4.5
-212,02. S. Agostino,Il Bargello,Via di Citta' 53,Bars,4.5
-213,02. S. Agostino,Numero Unico,Via di Citta 125,Italian,4.5
-214,02. S. Agostino,Ri.Me.,Via Giovanni Duprè 90,Tuscan,4.5
-215,02. S. Agostino,La Prosciutteria,Via di Pantaneto,Wine Bars,4.5
-216,02. S. Agostino,Ostaria dá Cice,Via San Pietro 32,Italian,4.0
-217,02. S. Agostino,Antica Trattoria Papei,Via del Mercato 6,Tuscan,4.0
-218,02. S. Agostino,Duomo di Siena,Piazza del Duomo 8,Landmarks & Historical Buildings,5.0
-219,02. S. Agostino,Pizzicheria de Miccoli,Via di Città 95,Pizza,4.5
-220,02. S. Agostino,Antica Osteria da Divo,Via Franciosa 25,Italian,4.0
-221,02. S. Agostino,Osteria Permalico,Via Costa Larga 4,Desserts,4.5
-222,02. S. Agostino,Zest,Costa di Sant'antonio 13,Italian,4.5
-223,02. S. Agostino,Gallo Nero,Via del Porrione 65,Tuscan,4.5
-224,02. S. Agostino,Osteria Castelvecchio,Via Castelvecchio 65,Tuscan,4.5
-225,02. S. Agostino,Antica Trattoria Stalloreggi,Via Stalloreggi 37,Tuscan,4.0
-226,02. S. Agostino,Ristorante San Desiderio,Piazza L. Bonelli 2,Italian,4.0
-227,02. S. Agostino,La Vecchia Latteria,Via San Pietro 10,Gelato,4.5
-228,02. S. Agostino,Osteria Nonna Gina,"Via Piano dei Mantellini, 2",Tuscan,4.0
-229,02. S. Agostino,Prètto,Via dei Termini 4,Salumerie,4.0
-230,03. S. Girolamo,La Taverna di San Giuseppe,Via Giovanni Dupre 132,Tuscan,5.0
-231,03. S. Girolamo,La Prosciutteria,Via di Pantaneto,Wine Bars,4.5
-232,03. S. Girolamo,Gallo Nero,Via del Porrione 65,Tuscan,4.5
-233,03. S. Girolamo,Antica Trattoria Papei,Via del Mercato 6,Tuscan,4.0
-234,03. S. Girolamo,Il Bargello,Via di Citta' 53,Bars,4.5
-235,03. S. Girolamo,Bio & Chocolate,Via Pantaneto 75,Cafes,5.0
-236,03. S. Girolamo,Osteria La Sosta di Violante,Via di Pantaneto 115,Tuscan,4.5
-237,03. S. Girolamo,Vi Vace,Via Stalloreggi 64,Pizza,4.5
-238,03. S. Girolamo,Duomo di Siena,Piazza del Duomo 8,Landmarks & Historical Buildings,5.0
-239,03. S. Girolamo,Zest,Costa di Sant'antonio 13,Italian,4.5
-240,03. S. Girolamo,Antica Osteria da Divo,Via Franciosa 25,Italian,4.0
-241,03. S. Girolamo,Ri.Me.,Via Giovanni Duprè 90,Tuscan,4.5
-242,03. S. Girolamo,Numero Unico,Via di Citta 125,Italian,4.5
-243,03. S. Girolamo,Osteria Babazuf,"Via di Pantaneto, 85",Pizza,4.5
-244,03. S. Girolamo,Taverna di Cecco,Via Cecco Angliolieri 19,Tuscan,4.5
-245,03. S. Girolamo,Pizzicheria de Miccoli,Via di Città 95,Pizza,4.5
-246,03. S. Girolamo,Osteria Le Logge,Via del Porrione 33,Italian,4.0
-247,03. S. Girolamo,Prètto,Via dei Termini 4,Salumerie,4.0
-248,03. S. Girolamo,L'orto de' pecci,Via di Porta Giustizia 39,Italian,5.0
-249,03. S. Girolamo,Salefino Vino e Cucina,Via degli Umiliati 1,Tuscan,4.5
-250,04. Fortezza,La Taverna di San Giuseppe,Via Giovanni Dupre 132,Tuscan,5.0
-251,04. Fortezza,Zest,Costa di Sant'antonio 13,Italian,4.5
-252,04. Fortezza,Antica Osteria da Divo,Via Franciosa 25,Italian,4.0
-253,04. Fortezza,La Prosciutteria,Via di Pantaneto,Wine Bars,4.5
-254,04. Fortezza,Vi Vace,Via Stalloreggi 64,Pizza,4.5
-255,04. Fortezza,Il Bargello,Via di Citta' 53,Bars,4.5
-256,04. Fortezza,Duomo di Siena,Piazza del Duomo 8,Landmarks & Historical Buildings,5.0
-257,04. Fortezza,Fonte Giusta,Via Camollia 102,Tuscan,4.5
-258,04. Fortezza,Café Nannini,Piazza Matteotti 32,Cafes,4.5
-259,04. Fortezza,La Chiacchiera,Via Costa di San Antonio 4,Italian,4.0
-260,04. Fortezza,Il Masgalano,Via Camporegio 1,Tuscan,5.0
-261,04. Fortezza,Antica Trattoria Papei,Via del Mercato 6,Tuscan,4.0
-262,04. Fortezza,Numero Unico,Via di Citta 125,Italian,4.5
-263,04. Fortezza,Taverna di Cecco,Via Cecco Angliolieri 19,Tuscan,4.5
-264,04. Fortezza,Salefino Vino e Cucina,Via degli Umiliati 1,Tuscan,4.5
-265,04. Fortezza,Pizzicheria de Miccoli,Via di Città 95,Pizza,4.5
-266,04. Fortezza,Prètto,Via dei Termini 4,Salumerie,4.0
-267,04. Fortezza,Ristorante San Domenico,Via di camporegio 15,Tuscan,4.5
-268,04. Fortezza,Compagnia dei Vinattieri,"Via delle Terme, 79",Tuscan,4.0
-269,04. Fortezza,Gallo Nero,Via del Porrione 65,Tuscan,4.5
-270,05. Antiporto,Ravioli Wang,Viale Vittorio Emanuele II 38,Chinese,5.0
-271,05. Antiporto,Fonte Giusta,Via Camollia 102,Tuscan,4.5
-272,05. Antiporto,Zest,Costa di Sant'antonio 13,Italian,4.5
-273,05. Antiporto,Il Vinaio,Via Camollia 167,Sandwiches,4.5
-274,05. Antiporto,Taverna di Cecco,Via Cecco Angliolieri 19,Tuscan,4.5
-275,05. Antiporto,Salefino Vino e Cucina,Via degli Umiliati 1,Tuscan,4.5
-276,05. Antiporto,Café Nannini,Piazza Matteotti 32,Cafes,4.5
-277,05. Antiporto,La Chiacchiera,Via Costa di San Antonio 4,Italian,4.0
-278,05. Antiporto,Compagnia dei Vinattieri,"Via delle Terme, 79",Tuscan,4.0
-279,05. Antiporto,Ristorante Pizzeria I Gabellieri,Via V. Emanuele 75,Pizza,4.0
-280,05. Antiporto,Osteria di Kamollia,Via di Camollia 114,Tuscan,4.0
-281,05. Antiporto,L'oro di Siena,Via Garibaldi 61,Pizza,5.0
-282,05. Antiporto,Ristorante San Domenico,Via di camporegio 15,Tuscan,4.5
-283,05. Antiporto,Il Masgalano,Via Camporegio 1,Tuscan,5.0
-284,05. Antiporto,Osteria Il Grattacielo,Via Pontani 8,Italian,4.0
-285,05. Antiporto,Pizzeria alle Scalette,Viale Curtatone 18,Pizza,4.5
-286,05. Antiporto,Ristorante Da Enzo,Via Camollia 49,Italian,4.5
-287,05. Antiporto,Buti pasticceria,"Viale Vittorio Emanuele II, 53",Chocolatiers & Shops,5.0
-288,05. Antiporto,Cafe Berta,Piazza Guido Chigi Saracini,Cafes,4.5
-289,05. Antiporto,Il Pomodorino,Via di camporegio 13,Pizza,3.5
-290,06. Due Ponti,Havana Club,Piazza Maestri del Lavoro 27,Cuban,5.0
-291,06. Due Ponti,Donna Ripalta,Viale Pietro Toselli 41,Tuscan,4.0
-292,06. Due Ponti,Albergo Certosa di Maggiano,"Str. di Certosa, 82",Hotels & Travel,5.0
-293,07. Napoli,Fontebecci,Via Fiorentina 133,Pizza,2.0
-294,07. Napoli,Mc Donald's,Via Fiorentina 124,Fast Food,2.0
-295,07. Napoli,la veranda,Piazza Calabria,Italian,4.5
-296,07. Napoli,Antica Trattoria Botteganova,Strada Chiantigiana 29,Italian,5.0
-297,07. Napoli,Dream Cafe',"Str. Statale 222 Chiantigiana, 13",Bars,4.0
-298,07. Napoli,Skile' Music Bar,Piazza Calabria 18,Cafes,3.0
-299,08. Ospedale,Dopolavoro La Foce,Strada della Vittorio 90,Italian,5.0
-300,09. Acquacalda,Hotel Garden,Via Custoza 2,Venues & Event Spaces,3.0
-301,09. Acquacalda,la veranda,Piazza Calabria,Italian,4.5
-302,09. Acquacalda,Fontebecci,Via Fiorentina 133,Pizza,2.0
-303,09. Acquacalda,Mc Donald's,Via Fiorentina 124,Fast Food,2.0
-304,09. Acquacalda,Dream Cafe',"Str. Statale 222 Chiantigiana, 13",Bars,4.0
-305,09. Acquacalda,Skile' Music Bar,Piazza Calabria 18,Cafes,3.0
-306,10. Ravacciano,La Taverna di San Giuseppe,Via Giovanni Dupre 132,Tuscan,5.0
-307,10. Ravacciano,La Prosciutteria,Via di Pantaneto,Wine Bars,4.5
-308,10. Ravacciano,Vi Vace,Via Stalloreggi 64,Pizza,4.5
-309,10. Ravacciano,Il Bargello,Via di Citta' 53,Bars,4.5
-310,10. Ravacciano,Fonte Giusta,Via Camollia 102,Tuscan,4.5
-311,10. Ravacciano,Duomo di Siena,Piazza del Duomo 8,Landmarks & Historical Buildings,5.0
-312,10. Ravacciano,Zest,Costa di Sant'antonio 13,Italian,4.5
-313,10. Ravacciano,Antica Osteria da Divo,Via Franciosa 25,Italian,4.0
-314,10. Ravacciano,Numero Unico,Via di Citta 125,Italian,4.5
-315,10. Ravacciano,Antica Trattoria Papei,Via del Mercato 6,Tuscan,4.0
-316,10. Ravacciano,Taverna di Cecco,Via Cecco Angliolieri 19,Tuscan,4.5
-317,10. Ravacciano,Pizzicheria de Miccoli,Via di Città 95,Pizza,4.5
-318,10. Ravacciano,Gallo Nero,Via del Porrione 65,Tuscan,4.5
-319,10. Ravacciano,Prètto,Via dei Termini 4,Salumerie,4.0
-320,10. Ravacciano,Salefino Vino e Cucina,Via degli Umiliati 1,Tuscan,4.5
-321,10. Ravacciano,Café Nannini,Piazza Matteotti 32,Cafes,4.5
-322,10. Ravacciano,Compagnia dei Vinattieri,"Via delle Terme, 79",Tuscan,4.0
-323,10. Ravacciano,Ri.Me.,Via Giovanni Duprè 90,Tuscan,4.5
-324,10. Ravacciano,La Chiacchiera,Via Costa di San Antonio 4,Italian,4.0
-325,10. Ravacciano,Ostaria dá Cice,Via San Pietro 32,Italian,4.0
-326,11. S. Miniato,Dopolavoro La Foce,Strada della Vittorio 90,Italian,5.0
-327,12. Terminal Bus,Fonte Giusta,Via Camollia 102,Tuscan,4.5
-328,12. Terminal Bus,Ravioli Wang,Viale Vittorio Emanuele II 38,Chinese,5.0
-329,12. Terminal Bus,Salefino Vino e Cucina,Via degli Umiliati 1,Tuscan,4.5
-330,12. Terminal Bus,Il Vinaio,Via Camollia 167,Sandwiches,4.5
-331,12. Terminal Bus,Osteria di Kamollia,Via di Camollia 114,Tuscan,4.0
-332,12. Terminal Bus,Sushiko,Piazzale Carlo Rosselli 25,Sushi Bars,4.0
-333,12. Terminal Bus,L'oro di Siena,Via Garibaldi 61,Pizza,5.0
-334,12. Terminal Bus,Ristorante Da Enzo,Via Camollia 49,Italian,4.5
-335,12. Terminal Bus,Susy Sushi,Piazza Rosselli,Japanese,4.0
-336,12. Terminal Bus,Mozzarella e Basilico,Piazzale Rosselli 25,Trattorie,1.0
-337,12. Terminal Bus,La Grotta di San Francesco,Via Camollia 25,Seafood,5.0
-338,12. Terminal Bus,Cafe Berta,Piazza Guido Chigi Saracini,Cafes,4.5
-339,12. Terminal Bus,Tia Loca,Via Bettino Ricasoli 55,Pizza,2.5
-340,12. Terminal Bus,Buti pasticceria,"Viale Vittorio Emanuele II, 53",Chocolatiers & Shops,5.0
-341,12. Terminal Bus,Pasta Mondo,Via Camollia 173,Pizza,5.0
-342,12. Terminal Bus,Ristorante Minohana,Viale Vittorio Emanuele II 32,Tuscan,1.0
-343,12. Terminal Bus,Corsini,Via Armando Diaz 4,Desserts,3.5
-344,12. Terminal Bus,Ristorante Pizzeria I Gabellieri,Via V. Emanuele 75,Pizza,4.0
-345,12. Terminal Bus,La Mandorla,Via Camollia 36,Desserts,5.0
-346,12. Terminal Bus,Cartazucchero,Via Camollia 92,Used Bookstore,5.0
-347,14. Vico Alto,la veranda,Piazza Calabria,Italian,4.5
-348,14. Vico Alto,Skile' Music Bar,Piazza Calabria 18,Cafes,3.0
-349,14. Vico Alto,Antica Trattoria Botteganova,Strada Chiantigiana 29,Italian,5.0
-350,14. Vico Alto,Mc Donald's,Via Fiorentina 124,Fast Food,2.0
-351,14. Vico Alto,Fontebecci,Via Fiorentina 133,Pizza,2.0
-352,14. Vico Alto,Dream Cafe',"Str. Statale 222 Chiantigiana, 13",Bars,4.0
-353,15. Casa dell'Ambiente,Fonte Giusta,Via Camollia 102,Tuscan,4.5
-354,15. Casa dell'Ambiente,La Prosciutteria,Via di Pantaneto,Wine Bars,4.5
-355,15. Casa dell'Ambiente,Il Bargello,Via di Citta' 53,Bars,4.5
-356,15. Casa dell'Ambiente,Zest,Costa di Sant'antonio 13,Italian,4.5
-357,15. Casa dell'Ambiente,Antica Osteria da Divo,Via Franciosa 25,Italian,4.0
-358,15. Casa dell'Ambiente,L'oro di Siena,Via Garibaldi 61,Pizza,5.0
-359,15. Casa dell'Ambiente,Salefino Vino e Cucina,Via degli Umiliati 1,Tuscan,4.5
-360,15. Casa dell'Ambiente,Taverna di Cecco,Via Cecco Angliolieri 19,Tuscan,4.5
-361,15. Casa dell'Ambiente,Café Nannini,Piazza Matteotti 32,Cafes,4.5
-362,15. Casa dell'Ambiente,Gallo Nero,Via del Porrione 65,Tuscan,4.5
-363,15. Casa dell'Ambiente,Prètto,Via dei Termini 4,Salumerie,4.0
-364,15. Casa dell'Ambiente,La Chiacchiera,Via Costa di San Antonio 4,Italian,4.0
-365,15. Casa dell'Ambiente,Compagnia dei Vinattieri,"Via delle Terme, 79",Tuscan,4.0
-366,15. Casa dell'Ambiente,Il Vinaio,Via Camollia 167,Sandwiches,4.5
-367,15. Casa dell'Ambiente,Osteria di Kamollia,Via di Camollia 114,Tuscan,4.0
-368,15. Casa dell'Ambiente,Nannini,Via Banchi di Sopra 24,Desserts,4.0
-369,15. Casa dell'Ambiente,Mugolone,Via dei Pellegrini 8,Italian,5.0
-370,15. Casa dell'Ambiente,Ravioli Wang,Viale Vittorio Emanuele II 38,Chinese,5.0
-371,15. Casa dell'Ambiente,Ristorante San Desiderio,Piazza L. Bonelli 2,Italian,4.0
-372,15. Casa dell'Ambiente,Osteria Le Logge,Via del Porrione 33,Italian,4.0
-373,16. Frajese,Osteria Nonna Gina,"Via Piano dei Mantellini, 2",Tuscan,4.0
-374,16. Frajese,Da Michele,Strada Massetana 64,Tuscan,5.0
-375,16. Frajese,Da Michele,Strada Massetana 64,Tuscan,3.0
-376,16. Frajese,Sotto le Fonti,Via Esterna di Fontebranda 114,Pizza,4.5
-377,16. Frajese,Biovita,Via Massetana Romana 54,Cafeteria,5.0
-378,16. Frajese,BAR Il Barrino,"Str. Massetana Romana, 5",Bars,5.0
-379,16. Frajese,BAR dei Mantellini di Melani Fabiola,"Via Piano dei Mantellini, 22",Bars,5.0
-380,16. Frajese,Nannini,Via Banchi di Sopra 24,Cafeteria,2.0
-381,16. Frajese,Fontebranda,Via di Fontebranda 73,Landmarks & Historical Buildings,4.0
-382,17. Mercato,La Taverna di San Giuseppe,Via Giovanni Dupre 132,Tuscan,5.0
-383,17. Mercato,La Prosciutteria,Via di Pantaneto,Wine Bars,4.5
-384,17. Mercato,Il Bargello,Via di Citta' 53,Bars,4.5
-385,17. Mercato,Antica Trattoria Papei,Via del Mercato 6,Tuscan,4.0
-386,17. Mercato,Numero Unico,Via di Citta 125,Italian,4.5
-387,17. Mercato,Gallo Nero,Via del Porrione 65,Tuscan,4.5
-388,17. Mercato,Pizzicheria de Miccoli,Via di Città 95,Pizza,4.5
-389,17. Mercato,Ri.Me.,Via Giovanni Duprè 90,Tuscan,4.5
-390,17. Mercato,Vi Vace,Via Stalloreggi 64,Pizza,4.5
-391,17. Mercato,Prètto,Via dei Termini 4,Salumerie,4.0
-392,17. Mercato,Duomo di Siena,Piazza del Duomo 8,Landmarks & Historical Buildings,5.0
-393,17. Mercato,Nannini,Via Banchi di Sopra 24,Desserts,4.0
-394,17. Mercato,Antica Osteria da Divo,Via Franciosa 25,Italian,4.0
-395,17. Mercato,Zest,Costa di Sant'antonio 13,Italian,4.5
-396,17. Mercato,Ostaria dá Cice,Via San Pietro 32,Italian,4.0
-397,17. Mercato,Mugolone,Via dei Pellegrini 8,Italian,5.0
-398,17. Mercato,Osteria Le Logge,Via del Porrione 33,Italian,4.0
-399,17. Mercato,Ristorante San Desiderio,Piazza L. Bonelli 2,Italian,4.0
-400,17. Mercato,Bio & Chocolate,Via Pantaneto 75,Cafes,5.0
-401,17. Mercato,Taverna di Cecco,Via Cecco Angliolieri 19,Tuscan,4.5
-402,18. Tufi,Antica Salumeria Salvini Ciofi Soccol e Zanolli,"Str. Statale 73 Ponente, 46",,3.0
-403,18. Tufi,Il Tocco,Via Cassia Sud 122,Pizza,4.0
-404,13. Calamandrei,Dopolavoro La Foce,Strada della Vittorio 90,Italian,5.0
-405,13. Calamandrei,la veranda,Piazza Calabria,Italian,4.5
-406,13. Calamandrei,Skile' Music Bar,Piazza Calabria 18,Cafes,3.0
-407,19. Petriccio,Hotel Garden,Via Custoza 2,Venues & Event Spaces,3.0
-408,19. Petriccio,la veranda,Piazza Calabria,Italian,4.5
-409,19. Petriccio,Fontebecci,Via Fiorentina 133,Pizza,2.0
-410,19. Petriccio,Mc Donald's,Via Fiorentina 124,Fast Food,2.0
-411,19. Petriccio,Bar Cecco,Viale Camillo Benso Conte Di Cavour,Cafes,3.0
-412,19. Petriccio,Skile' Music Bar,Piazza Calabria 18,Cafes,3.0
+,station name,name,address,category,rating,review count
+0,01. Curtatone,Pizzeria Alle Scalette,Viale Curtatone 18,Pizzeria,,
+1,01. Curtatone,Piazza Giacomo Matteotti,Piazza Giacomo Matteotti,Plaza,,
+2,01. Curtatone,Basilica di San Domenico,Piazza San Domenico,Church,,
+3,01. Curtatone,Caffè La Piazzetta,Via Montanini 52,"Bar, Café, Italian Restaurant",,
+4,01. Curtatone,Consorzio Agrario di Siena,Via Pianigiani Giuseppe 9,Grocery Store,,
+5,01. Curtatone,Il Masgalano,Via Camporegio 1,"Pizzeria, Italian Restaurant",,
+6,01. Curtatone,Il Pomodorino,Via Camporegio 13,Pizzeria,,
+7,01. Curtatone,Zest Ristorante & Winebar,Costa di Sant'Antonio 13,"Wine Bar, Cafe, Coffee, and Tea House, Italian Restaurant",,
+8,01. Curtatone,Antico Bar La Lizza,Piazza Antonio Gramsci 10,"Bar, Café, Restaurant",,
+9,01. Curtatone,Ristorante San Domenico,Via Camporegio 17,Restaurant,,
+10,02. S. Agostino,La Taverna di San Giuseppe,Via Giovanni Duprè 132,"Tuscan Restaurant, Mediterranean Restaurant",,
+11,02. S. Agostino,Osteria Castelvecchio,Via Castelvecchio 65,"Pizzeria, Trattoria, Tuscan Restaurant",,
+12,02. S. Agostino,Osteria da Cice,Via San Pietro 32,Italian Restaurant,,
+13,02. S. Agostino,La Vecchia Latteria,Via San Pietro 10,"Ice Cream Parlor, Vegan and Vegetarian Restaurant",,
+14,02. S. Agostino,Mensa Sant'Agata,Via Sant'Agata 1,"Café, Italian Restaurant",,
+15,02. S. Agostino,Hotel Duomo SRL,Via Stalloreggi 38,Hotel,,
+16,02. S. Agostino,Pinacotaca Nazionale di Siena,Via di San Pietro 29,Museum,,
+17,02. S. Agostino,La Taverna Del Capitano,Via del Capitano 6,"Pizzeria, Trattoria, Tuscan Restaurant",,
+18,02. S. Agostino,Boccon del Prete,Via di San Pietro 17,Trattoria,,
+19,02. S. Agostino,Permalico Vini e Merende SNC di Mattii e Mottola,Costa Larga 4,"Bar, Café, Coffee Shop",,
+20,03. S. Girolamo,Gelateria Nice,Via di Pantaneto 152,"Ice Cream Parlor, Restaurant",,
+21,03. S. Girolamo,Osteria La Sosta di Violante,Via di Pantaneto 115,Trattoria,,
+22,03. S. Girolamo,Da Gano,Via Pantaneto 146,Trattoria,,
+23,03. S. Girolamo,Supermercati Conad,Via Pantaneto,Grocery Store,,
+24,03. S. Girolamo,Bella Vista Social Pub,Via di pantaneto,"Arts and Entertainment, Pub",,
+25,03. S. Girolamo,La Prosciutteria,Via di Pantaneto 89,"Bar, Italian Restaurant, Tapas Restaurant",,
+26,03. S. Girolamo,Meet Life Café,Via Pantaneto 90,"Bar, Café, Coffee Shop",,
+27,03. S. Girolamo,Porta Romana,Via Roma,Other Great Outdoors,,
+28,03. S. Girolamo,Grotta Gallo Nero,Via Porrione 65,Italian Restaurant,,
+29,03. S. Girolamo,Gallo Nero,Via del Porrione 65,Italian Restaurant,,
+30,04. Fortezza,Fortezza Medicea,Piazza Caduti delle Forze Armate,Landmarks and Outdoors,,
+31,04. Fortezza,Osteria del Buon Governo,Viale Vittorio Veneto 29,"Diner, Trattoria",,
+33,04. Fortezza,Fondazione Siena Jazz - Accademia Nazionale del Jazz,Piazza Caduti delle Forze dell'Ordine,Music School,,
+35,04. Fortezza,Blandis Cafè & Wine Bar,Via Esterna di Fontebranda 50-52,"Bar, Restaurant",,
+36,04. Fortezza,Fontebranda,Via di Fontebranda,Monument,,
+37,04. Fortezza,Osteria Enoteca Sotto Le Fonti,Via Esterna di Fontebranda 114,Trattoria,,
+40,05. Antiporto,Antiporto di Camollia,Via Vittorio Emanuele II,Historic and Protected Site,,
+41,05. Antiporto,Ravioli Wang,Viale Vittorio Emanuele II 38,Chinese Restaurant,,
+42,05. Antiporto,Gelateria Il Bacio,Via Vittorio Emanuele II 55,"Ice Cream Parlor, Restaurant",,
+43,05. Antiporto,Turkish Pace Kebap,Viale Cavour,Turkish Restaurant,,
+44,05. Antiporto,Snack Bar 1961,Viale Vittorio Emanuele II 64,"Café, Restaurant",,
+45,05. Antiporto,Vodafone Store,Corso Cavour 2,Mobile Phone Store,,
+46,05. Antiporto,Bar Impero Siena,Viale Vittorio Emanuele II 10,"Cocktail Bar, Café, Restaurant",,
+47,05. Antiporto,Sushiko,Piazzale Carlo Rosselli 25,Sushi Restaurant,,
+48,05. Antiporto,Pub Pizzeria La Risalita,Via Vittorio Emanuele 57,Pizzeria,,
+49,05. Antiporto,Solo Affitti - Siena,Viale Vittorio Emanuele II,Real Estate Agency,,
+50,06. Due Ponti,Burger King,Viale Toselli,"Burger Joint, Fast Food Restaurant",,
+51,06. Due Ponti,Simply viale Toselli,Piazza Maestri del Lavori,Department Store,,
+52,06. Due Ponti,Prosalus Sanitaria,Viale Pietro Toselli 21,Medical Supply Store,,
+53,06. Due Ponti,Donna Ripalta,Viale Pietro Toselli 41,"BBQ Joint, Italian Restaurant",,
+54,06. Due Ponti,Acquedotto del Fiora,Viale Pietro Toselli 9,Food and Beverage Service,,
+55,06. Due Ponti,Penny Market,Via Toselli 11,"Dining and Drinking, Grocery Store",,
+56,06. Due Ponti,Rakki Sushi Siena,Piazza Maestri del Lavoro 31,Sushi Restaurant,,
+58,06. Due Ponti,Ricoh Italia SRL,Viale Toselli Pietro 11,,,
+59,06. Due Ponti,Terrecablate Reti e Servizi SRL,Viale Pietro Toselli 9,,,
+60,07. Napoli,Fontebecci,Via Fiorentina 133,"Pizzeria, Italian Restaurant",,
+61,07. Napoli,Bruzzese Tuttoparquet,Via Fiorentina 112,"Carpet and Flooring Contractor, Painter",,
+62,07. Napoli,Creme Gelateria Dolceria,Via Fiorentina 151,"Cupcake Shop, Ice Cream Parlor, Pastry Shop",,
+63,07. Napoli,Pizzeria Poppi,Via Fiorentina 105,Pizzeria,,
+64,07. Napoli,Al Fiumino,Via Giovanni Paolo II,"Wine Bar, Buffet, Gastropub",,
+65,07. Napoli,McDonald's,Via Fiorentina 122,"Burger Joint, Fast Food Restaurant",,
+66,07. Napoli,Centro Per L'impiego,Via Fiorentina 91,,,
+67,07. Napoli,Pizzeria La Fenice,Via Fiorentina 88,Pizzeria,,
+68,07. Napoli,Ristorante Il Mestolo,Via Fiorentina 81,"Italian Restaurant, Seafood Restaurant",,
+69,07. Napoli,Secar 2009,Via Fiorentina 116,"Automotive Repair Shop, Tire Repair Shop",,
+70,08. Ospedale,Associazione Coccinelle - Amici del neonato,Viale Bracci 16,,,
+71,08. Ospedale,Ospedali Riuniti,Viale Mario Bracci 16,Hospital,,
+72,08. Ospedale,Azienda U.S.L. 7 di Siena,Viale Bracci Mario 16,Health and Medicine,,
+73,08. Ospedale,Azienda Ospedaliera Senese,Viale Bracci Mario 16,Hospital,,
+74,08. Ospedale,Pizzeria Tavola Calda Bracci,Viale Bracci 4,,,
+75,08. Ospedale,A.O. Universitaria Senese,Viale M. Bracci 16,,,
+76,08. Ospedale,Mensa San Miniato Ristorante,Via de Nicola 9,Restaurant,,
+77,08. Ospedale,Associazione Toscana Leucemie Onlus,Viale Bracci Mario 16,Community and Government,,
+78,08. Ospedale,Patologia Orale,Viale Bracci,,,
+79,08. Ospedale,Dr Maurizio Biagioli,Viale Bracci 16,Dermatologist,,
+80,09. Acquacalda,Poste Italiane,Via Savina Petrilli 2,Post Office,,
+81,09. Acquacalda,Pizzeria La Strana Coppia,Via Celso Cittadini 6,Pizzeria,,
+82,09. Acquacalda,CUS Siena,Via Luciano Banchi 3,Gym and Studio,,
+83,09. Acquacalda,Bar Giglio,Via Colombini 32,"Bar, Café",,
+84,09. Acquacalda,Centro Servizi Familiari di Tavaglione M.& C. SNC,Via B. Tolomei 10,Metals Supplier,,
+85,09. Acquacalda,Palacorsoni Siena,Via L. Banchi 5,Stadium,,
+86,09. Acquacalda,Ufficio Anagrafe e Stato Civile,Via Bernardo Tolomei 7,Community and Government,,
+87,09. Acquacalda,Parco Bernardino Ochino,Via Luciano Banchi,Sports and Recreation,,
+88,09. Acquacalda,San Gonnario Beer Shop,Via Colombini 42,Beer Store,,
+89,09. Acquacalda,Laboratorio Odontotecnico Senese di Boldrini Mario e C. - SNC,Via Savina Petrilli 17,Medical Center,,
+90,10. Ravacciano,La Grotta di San Francesco,Via Baldassarre Peruzzi 20,"Pizzeria, Italian Restaurant, Soup Spot",,
+91,10. Ravacciano,Particolare di Siena,Via Baldassarre Peruzzi 26,Restaurant,,
+92,10. Ravacciano,Osteria L'Osteria,Via dei Rossi 79,Italian Restaurant,,
+93,10. Ravacciano,Tre Cristi,Vicolo di Provenzano 1,Italian Restaurant,,
+94,10. Ravacciano,L'oro di Siena di Luppoli Marcellino & C. SNC,Via Giuseppe Garibaldi 61,"Pizzeria, Italian Restaurant",,
+95,10. Ravacciano,Osteria Le Sorelline,Via dei Rossi 76,Restaurant,,
+96,10. Ravacciano,Campetto da Basket di Ravacciano,Via del Vecchietta,Basketball Court,,
+97,10. Ravacciano,Sushi Bar,Via Domenico Beccafumi 10,"Trattoria, Japanese Restaurant",,
+98,10. Ravacciano,Piazza Salimbeni,Piazza Salimbeni,Historic and Protected Site,,
+100,11. S. Miniato,La Pizzeria di San Miniato,Piazza Palmiro Togliatti 2,Pizzeria,,
+101,11. S. Miniato,Scaccini e Cucini di Scaccini S. e Cucini M SNC,Piazza Palmiro Togliatti 3,Bar,,
+102,11. S. Miniato,Forno San Miniato,Piazza Togliatti 7,Wholesaler,,
+103,11. S. Miniato,Cooperativa San Miniato,Piazza Palmiro Togliatti,Convenience Store,,
+104,11. S. Miniato,Si Donna,Piazza Palmiro Togliatti 15,Business and Professional Services,,
+105,11. S. Miniato,Cittinilandia,Via Achille Grandi 2,,,
+106,11. S. Miniato,Farmacia Laguardia,Via Grandi 2,Drugstore,,
+107,11. S. Miniato,Simus - Museo Anatomico Leonetto Comparini,Via Aldo Moro 2,Science Museum,,
+108,11. S. Miniato,Circolo Acli San Miniato,Via Aldo Moro 4,Organization,,
+109,11. S. Miniato,Mps Leasing & Factoring SPA,Via Aldo Moro 11,Loans Agency,,
+111,12. Terminal Bus,Punto Enel,Via Lauro de Bosis 26,Miscellaneous Store,,
+112,12. Terminal Bus,Chianti Banca,Via Lauro de Bosis 20,Bank,,
+113,12. Terminal Bus,GameStop,Piazzale Carlo Rosselli 22,,,
+114,12. Terminal Bus,Farmacia Comunale,"Stazione Ferroviaria di Siena, Piazzale Carlo Rosselli",Drugstore,,
+115,12. Terminal Bus,Ristorante Primo Binario,Piazza Carlo Rosselli 19,Pizzeria,,
+116,12. Terminal Bus,Bar Ristorante Stazione,Piazza Rosselli Carlo 6,"Bar, Cafe, Coffee, and Tea House",,
+117,12. Terminal Bus,Cibiamo - La Bottega del Caffè,Piazza Carlo Rosselli 22,"Coffee Shop, Fast Food Restaurant",,
+118,12. Terminal Bus,Centro Commerciale Porta Siena,Piazza Carlo Rosselli 25,Shopping Mall,,
+119,12. Terminal Bus,Colours & Beauty,Piazzale carlo rosselli 25,Fashion Retail,,
+120,14. Vico Alto,La Veranda,Piazza Calabria 20,Pizzeria,,
+121,14. Vico Alto,Skilè Music Bar,Piazza Calabria 18,"Arts and Entertainment, Dive Bar, Pub",,
+122,14. Vico Alto,Pasticceria Senese,piazza Calabria 25,Dessert Shop,,
+124,14. Vico Alto,Motorizzazione Civile,Via delle Regioni 70,Government Building,,
+125,14. Vico Alto,Agenzia Del Territorio,Via Liguria 4,Community and Government,,
+126,14. Vico Alto,Studio Commerciale Associato Turillazzi,Via Liguria 19,Business and Strategy Consulting Office,,
+127,14. Vico Alto,Skilè Music Pub,Piazza Calabria 18-19,Food and Beverage Retail,,
+128,14. Vico Alto,Il Salottino di Moira,Piazza Calabria 16,,,
+129,14. Vico Alto,Emporio Dell'Usato di Fantacci Luca e C.,Via delle Regioni 23,Vintage and Thrift Store,,
+133,15. Casa dell'Ambiente,Bar Beccafumi SNC,Via Beccafumi 2,"Bar, Café",,
+135,15. Casa dell'Ambiente,Osteria di Kamollia,Via Camollia 114,"Trattoria, Tuscan Restaurant",,
+136,15. Casa dell'Ambiente,Osteria Il Vinaio,Via Camollia 167,"Deli, Tuscan Restaurant",,
+137,15. Casa dell'Ambiente,Enzo,Via Camollia 49,,,
+138,15. Casa dell'Ambiente,Bepharma,Via Simone Martini 25,Drugstore,,
+139,15. Casa dell'Ambiente,Trattoria Fonte Giusta,Via Camollia 102,"Trattoria, Tuscan Restaurant",,
+140,16. Frajese,Mercato di Campagna Amica,Via Paolo Frajese 21,Farmers Market,,
+141,16. Frajese,Enzo Sushi,Via Paolo Frajese 63,Restaurant,,
+142,16. Frajese,Pista Engels Lambardi,Strada di Pescaia 121a,Hockey Field,,
+143,16. Frajese,Cannoleria Ke Cassata,Strada di Pescaia 117,,,
+144,16. Frajese,Il Tagliere di Lele,Strada Pescaia 129,"Bar, Gastropub, Pizzeria",,
+145,16. Frajese,La Gelateria del 103,Strada di Pescaia 125,"Pastry Shop, Restaurant",,
+146,16. Frajese,Art Pizza e Bar al 103,Strada di Pescaia 103,Pizzeria,,
+147,16. Frajese,Da Michele,Strada Massetana 64,"Pizzeria, Italian Restaurant, Soup Spot",,
+148,16. Frajese,Carrefour Express,Via di Pescaia 97,Grocery Store,,
+149,16. Frajese,Podere Il Pero,Strada Montalbuccio 29,"Bed and Breakfast, Hotel",,
+150,17. Mercato,Tea-Room Porta Giustizia,Via di Porta Giustizia 11,"Bar, Tea Room, Restaurant",,
+151,17. Mercato,Ristorante La Finestra,Piazza Mercato 14,"Diner, Italian Restaurant",,
+152,17. Mercato,Gino Cacino,Piazza del Mercato 31,Food and Beverage Retail,,
+153,17. Mercato,Piazza del Mercato,Piazza del Mercato,Plaza,,
+155,17. Mercato,Trattoria Papei,Piazza del Mercato 6,Trattoria,,
+156,17. Mercato,Maudit Pub,Vicolo della Fortuna 21,"Dive Bar, Pub, Restaurant",,
+157,17. Mercato,Palazzo Pubblico,Piazza del Campo 1,Historic and Protected Site,,
+159,17. Mercato,Torre Del Mangia,Piazza del Campo,Monument,,
+160,18. Tufi,Bed & Breakfast Fonte dei Tufi,Strada dei Tufi 59,"Bed and Breakfast, Hotel",,
+161,18. Tufi,Emporio Musicale Senese,Strada di Cerchiaia 11,Music Store,,
+162,18. Tufi,La Stramba,Strada dei Tufi 66,Vacation Rental,,
+163,18. Tufi,M&Mj SRL Semplificata,Strada dei Tufi 66,,,
+164,18. Tufi,Costa Del Sole SRL,Strada dei Tufi 61,,,
+165,18. Tufi,Euronics,Strada Massetana Romana 62,"Electronics Store, Home Appliance Store",,
+166,18. Tufi,Edilsiena SRL,Via Piccolomini Enea Silvio 185,,,
+167,18. Tufi,Villa Il Borghetto,Via Tufi no. 64,,,
+168,18. Tufi,Il Palazzetto,Strada del Lucherino 31,"Hotel, Vacation Rental",,
+169,18. Tufi,Studio Etruria di p.a. Megna,Via Enea Silvio Piccolomini 199,,,
+171,13. Calamandrei,Pepi Luca,Via de Nicola Enrico 3,Upholstery Service,,
+172,13. Calamandrei,Ditta B.F.M. di Bartali Fabrizio,Via Buozzi 65,Metals Supplier,,
+173,13. Calamandrei,Mini Rolando,Via Enrico Berlinguer 19,Painter,,
+174,13. Calamandrei,Vivenda SPA,Via Aldo Moro 2,,,
+175,13. Calamandrei,Tempio Israelitico,Via delle Scotte,Synagogue,,
+176,13. Calamandrei,Bartalini Mario,Via de Gasperi Alcide 2,Home Improvement Service,,
+178,13. Calamandrei,Butini Arch. Riccardo,Via Lizzadri Oreste 27,Business and Professional Services,,
+179,13. Calamandrei,Pasticceria Scacciapensieri,Via Nazareno Orlandi 8,"Bar, Coffee Shop, Tea Room",,
+180,19. Petriccio,Pasticceria Pierini,Via Quinto Settano 5,"Bakery, Cupcake Shop, Pastry Shop",,
+181,19. Petriccio,Zelig Sociale Società Cooperativa Sociale A R. L.,Strada del Petriccio 49,,,
+183,19. Petriccio,Centro Diagnostico Senese,Via Cittadini 7,Healthcare Clinic,,
+184,19. Petriccio,Erboristeria La Pimpinella,Via Celso Cittadini 16,"Alternative Medicine Clinic, Drugstore",,
+185,19. Petriccio,Parrocchia Beato Bernardo Tolomei,Via Tolomei Bernardo 1,Church,,
+186,19. Petriccio,Dr. Vigni Farmacia,Via Quinto Settano 1,Drugstore,,
+189,19. Petriccio,Bovicelli Roberto,Via Gallerani 23,Dentist,,
+191,01. Curtatone,Zest,Costa di Sant'antonio 13,"Italian, Wine Bars",4.5,25.0
+192,01. Curtatone,Café Nannini,Piazza Matteotti 32,Cafes,4.5,14.0
+193,01. Curtatone,La Chiacchiera,Via Costa di San Antonio 4,Italian,4.0,22.0
+194,01. Curtatone,Compagnia dei Vinattieri,"Via delle Terme, 79",Tuscan,4.0,22.0
+195,01. Curtatone,Pizzeria alle Scalette,Viale Curtatone 18,Pizza,4.5,5.0
+196,01. Curtatone,Il Bargello,Via di Citta' 53,"Bars, Trattorie, Tuscan",4.5,20.0
+197,01. Curtatone,Salefino Vino e Cucina,Via degli Umiliati 1,"Tuscan, Wine Bars",4.5,11.0
+198,01. Curtatone,Antica Osteria da Divo,Via Franciosa 25,Italian,4.0,62.0
+200,01. Curtatone,Duomo di Siena,Piazza del Duomo 8,"Landmarks & Historical Buildings, Churches",5.0,39.0
+201,01. Curtatone,Prètto,Via dei Termini 4,"Salumerie, Cheese Shops, Tuscan",4.0,12.0
+202,01. Curtatone,Fonte Giusta,Via Camollia 102,Tuscan,4.5,18.0
+205,01. Curtatone,Vi Vace,Via Stalloreggi 64,"Pizza, Italian",4.5,33.0
+206,01. Curtatone,Nannini,Via Banchi di Sopra 24,"Desserts, Patisserie/Cake Shop, Cafes",4.0,20.0
+207,01. Curtatone,Taverna di Cecco,Via Cecco Angliolieri 19,Tuscan,4.5,50.0
+208,01. Curtatone,Antica Trattoria Papei,Via del Mercato 6,"Tuscan, Trattorie",4.0,34.0
+209,01. Curtatone,Pizzeria di Nonno Mede,Via Camporegio 21,"Pizza, Tuscan",4.0,16.0
+213,02. S. Agostino,Numero Unico,Via di Citta 125,Italian,4.5,17.0
+214,02. S. Agostino,Ri.Me.,Via Giovanni Duprè 90,Tuscan,4.5,15.0
+216,02. S. Agostino,Ostaria dá Cice,Via San Pietro 32,Italian,4.0,13.0
+219,02. S. Agostino,Pizzicheria de Miccoli,Via di Città 95,Pizza,4.5,25.0
+221,02. S. Agostino,Osteria Permalico,Via Costa Larga 4,"Desserts, Wine Bars, Italian",4.5,5.0
+225,02. S. Agostino,Antica Trattoria Stalloreggi,Via Stalloreggi 37,Tuscan,4.0,5.0
+226,02. S. Agostino,Ristorante San Desiderio,Piazza L. Bonelli 2,Italian,4.0,15.0
+228,02. S. Agostino,Osteria Nonna Gina,"Via Piano dei Mantellini, 2",Tuscan,4.0,38.0
+235,03. S. Girolamo,Bio & Chocolate,Via Pantaneto 75,"Cafes, Desserts, Vegan",5.0,6.0
+243,03. S. Girolamo,Osteria Babazuf,"Via di Pantaneto, 85",Pizza,4.5,11.0
+246,03. S. Girolamo,Osteria Le Logge,Via del Porrione 33,Italian,4.0,32.0
+248,03. S. Girolamo,L'orto de' pecci,Via di Porta Giustizia 39,Italian,5.0,2.0
+273,05. Antiporto,Il Vinaio,Via Camollia 167,"Sandwiches, Tuscan, Fast Food",4.5,12.0
+279,05. Antiporto,Ristorante Pizzeria I Gabellieri,Via V. Emanuele 75,Pizza,4.0,2.0
+281,05. Antiporto,L'oro di Siena,Via Garibaldi 61,"Pizza, Italian, Trattorie",5.0,9.0
+284,05. Antiporto,Osteria Il Grattacielo,Via Pontani 8,Italian,4.0,34.0
+286,05. Antiporto,Ristorante Da Enzo,Via Camollia 49,Italian,4.5,7.0
+287,05. Antiporto,Buti pasticceria,"Viale Vittorio Emanuele II, 53","Chocolatiers & Shops, Desserts",5.0,1.0
+288,05. Antiporto,Cafe Berta,Piazza Guido Chigi Saracini,Cafes,4.5,3.0
+290,06. Due Ponti,Havana Club,Piazza Maestri del Lavoro 27,"Cuban, Steakhouses",5.0,1.0
+292,06. Due Ponti,Albergo Certosa di Maggiano,"Str. di Certosa, 82","Hotels & Travel, Restaurants",5.0,1.0
+294,07. Napoli,Mc Donald's,Via Fiorentina 124,"Fast Food, Burgers",2.0,1.0
+295,07. Napoli,la veranda,Piazza Calabria,Italian,4.5,6.0
+296,07. Napoli,Antica Trattoria Botteganova,Strada Chiantigiana 29,"Italian, Bars",5.0,1.0
+297,07. Napoli,Dream Cafe',"Str. Statale 222 Chiantigiana, 13",Bars,4.0,1.0
+298,07. Napoli,Skile' Music Bar,Piazza Calabria 18,Cafes,3.0,1.0
+299,08. Ospedale,Dopolavoro La Foce,Strada della Vittorio 90,"Italian, Bars",5.0,4.0
+300,09. Acquacalda,Hotel Garden,Via Custoza 2,"Venues & Event Spaces, Hotels, Italian",3.0,13.0
+335,12. Terminal Bus,Susy Sushi,Piazza Rosselli,"Japanese, Sushi Bars",4.0,1.0
+336,12. Terminal Bus,Mozzarella e Basilico,Piazzale Rosselli 25,"Trattorie, Napoletana, Pizza",1.0,1.0
+339,12. Terminal Bus,Tia Loca,Via Bettino Ricasoli 55,"Pizza, Italian, Mediterranean",2.5,2.0
+341,12. Terminal Bus,Pasta Mondo,Via Camollia 173,"Pizza, Italian, Pasta Shops",5.0,1.0
+342,12. Terminal Bus,Ristorante Minohana,Viale Vittorio Emanuele II 32,Tuscan,1.0,2.0
+343,12. Terminal Bus,Corsini,Via Armando Diaz 4,"Desserts, Bakeries, Patisserie/Cake Shop",3.5,2.0
+345,12. Terminal Bus,La Mandorla,Via Camollia 36,"Desserts, Patisserie/Cake Shop, Ice Cream & Frozen Yogurt",5.0,1.0
+346,12. Terminal Bus,Cartazucchero,Via Camollia 92,"Used Bookstore, Bookstores, Cafeteria",5.0,1.0
+369,15. Casa dell'Ambiente,Mugolone,Via dei Pellegrini 8,"Italian, Gluten-Free",5.0,7.0
+375,16. Frajese,Sotto le Fonti,Via Esterna di Fontebranda 114,"Pizza, Tuscan",4.5,6.0
+377,16. Frajese,Biovita,Via Massetana Romana 54,"Cafeteria, Health Markets, Vegetarian",5.0,1.0
+378,16. Frajese,BAR Il Barrino,"Str. Massetana Romana, 5",Bars,5.0,2.0
+379,16. Frajese,BAR dei Mantellini di Melani Fabiola,"Via Piano dei Mantellini, 22",Bars,5.0,1.0
+402,18. Tufi,Antica Salumeria Salvini Ciofi Soccol e Zanolli,"Str. Statale 73 Ponente, 46",,3.0,1.0
+403,18. Tufi,Il Tocco,Via Cassia Sud 122,"Pizza, Cafes, Tuscan",4.0,2.0
+411,19. Petriccio,Bar Cecco,Viale Camillo Benso Conte Di Cavour,"Cafes, Fast Food, Pizza, Coffee & Tea",3.0,3.0
