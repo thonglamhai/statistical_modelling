@@ -24,7 +24,9 @@ Clean the data retrieved from database
 Build the linear regresion model for the dependant variable `free_bikes` to others
 ## Results
 The data from Yelp provide more POIs than Foursquare
-The model shows that there is a statistically significant of latitude and logitude to the number of bikes at a location
+The linear regression model show that
+- The R-squared value is 0.000 which means the model is fit
+- However the p-value is 0.756 > 0.05 so the rating doesn't have significant impact to the number of bikes
 
 ## Challenges 
 How to define the independant variables which has a correlation to the number of bikes
