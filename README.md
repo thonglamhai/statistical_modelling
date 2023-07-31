@@ -21,12 +21,14 @@ Connect to the `sqlite` and get the data in the table `pois` from the database
 
 ### Build the linear regression model
 Clean the data retrieved from database
-Build the linear regresion model for the dependant variable `free_bikes` to others
+Build the linear regresion model for the dependant variable `free_bikes` to ``rating` and `review count` to answer these questions
+- Does number of bikes available has statistically significant to the rating?
+- Does number of bikes available has statistically significant to the review count?
 ## Results
 The data from Yelp provide more POIs than Foursquare
 The linear regression model show that
-- The R-squared value is 0.000 which means the model is fit
-- However the p-value is 0.756 > 0.05 so the rating doesn't have significant impact to the number of bikes
+- The R-squared value is very low which means the model is not fit
+
 
 ## Challenges 
 How to define the independant variables which has a correlation to the number of bikes
